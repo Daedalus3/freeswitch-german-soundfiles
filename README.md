@@ -5,7 +5,7 @@ German language files for Freeswitch. Conference sound files only -primarily for
 There are two options to use in BBB:
 
 
-1. Using freestwich config (thanks to @sualko):
+1. Using freeswitch config (thanks to [@sualko]( https://github.com/sualko )):
 
 a. run `mkdir -p /opt/freeswitch/share/freeswitch/sounds/de/de/callie/conference` and upload all folders to this path.
 b. edit `/opt/freeswitch/etc/freeswitch/autoload_configs/conference.conf.xml`
